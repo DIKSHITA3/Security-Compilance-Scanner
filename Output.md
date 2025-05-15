@@ -17,7 +17,8 @@
 <h1>
   4. Result of Unowned Files:
 </h1>
-![WhatsApp Image 2025-05-10 at 01 43 03](https://github.com/user-attachments/assets/bf8a1616-11a6-46a4-aea9-67675ecae91d)
+
+![Image](https://github.com/user-attachments/assets/f2f021c5-1111-44e7-9782-4c02e80c1517)
 <h1>
   5. Result of Check Weak User Passwords:
 </h1>
