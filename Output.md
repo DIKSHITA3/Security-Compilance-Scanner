@@ -5,7 +5,7 @@
 <h1>
   2. Security Scan Menu:
 </h1>
-![WhatsApp Image 2025-05-09 at 22 47 21](https://github.com/user-attachments/assets/b0a78dfe-1412-4394-915c-f8516d753721)
+ ![Image](https://github.com/user-attachments/assets/e5c04bcc-410e-4dac-a941-1dfc820ffb50)
 
 <h3>
   3. Result:
