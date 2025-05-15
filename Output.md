@@ -1,6 +1,9 @@
 <h1>
   1. Main Menu:
 <h1>
+
+  ![Image](https://github.com/user-attachments/assets/4c644454-7bd0-4fa3-96bf-2af315262df2)
+
   2. Security Scan Menu:
 </h1>
 
@@ -8,7 +11,9 @@
 <h1>
   3. Result of Check Open Ports:
 </h1>
-![WhatsApp Image 2025-05-09 at 22 47 54](https://github.com/user-attachments/assets/47150b34-0023-4760-9cf5-4bb53a84cac0)
+
+![Image](https://github.com/user-attachments/assets/f2f021c5-1111-44e7-9782-4c02e80c1517)
+
 <h1>
   4. Result of Unowned Files:
 </h1>
@@ -29,6 +34,8 @@
 <h1>
   9. Check AppArmor Status:
 </h1>
+
+![Image](https://github.com/user-attachments/assets/e05d1807-8316-4e26-b724-3fd2f46a3824)
 <h1>
   10. Check to Main Menu:
 </h1>
