@@ -1,0 +1,6 @@
+.gitignore`
+```gitignore
+*.log
+*.bak
+*.tmp
+*.swp
