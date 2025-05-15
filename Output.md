@@ -2,9 +2,9 @@
   1. Run Security Check:
 </h1>
 <p>![WhatsApp Image 2025-05-09 at 22 46 38](https://github.com/user-attachments/assets/e4423d12-f882-4ca5-83ac-f2b87fd50148)</p>
-<h2>
+<h1>
   2. Security Scan Menu:
-</h2>
+</h1>
 ![WhatsApp Image 2025-05-09 at 22 47 21](https://github.com/user-attachments/assets/b0a78dfe-1412-4394-915c-f8516d753721)
 
 <h3>
